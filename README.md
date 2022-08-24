@@ -1,0 +1,1 @@
+# bug-capacitor-status-bar
